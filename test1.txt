@@ -9,6 +9,7 @@ My Bother Name Is Rukon
     <div>
       <ul>
         <li> Home </li>
+        <li> contact </li>
       </ul>
     </div>
   </nav>
